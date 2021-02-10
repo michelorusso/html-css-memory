@@ -1,0 +1,24 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(136, 218, 213);
+    font-family: 'Nerko One', Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 1024px;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    margin: 15px;
+    text-shadow: 1px 01px grey;
+}
