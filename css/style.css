@@ -61,12 +61,12 @@ img{
 
 .card:hover img, .card:hover .text-card{
     display: block;
-    color: orange;
+    color: rgb(233, 156, 13);
 }
 
 .text-card{
     font-size: 35px;
-    color: rgb(134, 50, 190);
+    color: rgb(204, 55, 204);
     text-shadow: 1px 1px black;
 }
 
